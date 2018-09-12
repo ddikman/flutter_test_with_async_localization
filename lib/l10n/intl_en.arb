@@ -1,0 +1,8 @@
+{
+  "@@last_modified": "2018-09-12T19:02:31.698174",
+  "This is a test app": "This is a test app",
+  "@This is a test app": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
